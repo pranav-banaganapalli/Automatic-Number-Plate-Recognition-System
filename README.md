@@ -75,9 +75,6 @@ The system successfully detects and extracts number plates from images and video
 - Integrate a real-time alert system for unauthorized vehicles.
 - Enhance character recognition using advanced OCR techniques.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests.
-
 
 
 ## Contact
