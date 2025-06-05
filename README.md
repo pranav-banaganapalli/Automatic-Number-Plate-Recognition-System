@@ -81,6 +81,6 @@ The system successfully detects and extracts number plates from images and video
 For any queries or support, contact:
 - **Name**: Banaganapalli Sai Pranav
 - **Email**: bsaipranav502@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sai-pranav-banaganapalli-532022231/))
+- **LinkedIn**: [www.linkedin.com/in/saipranavbanaganapalli](https://www.linkedin.com/in/saipranavbanaganapalli)
 
 
